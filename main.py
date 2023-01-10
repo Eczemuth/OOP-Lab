@@ -40,8 +40,8 @@ def item5():
                 print(num1,num2,s)
                 return
 
-def item6()
+def item6():
     n = int(input())
-    print("".join([" " * (n - i - 1) + "*" * (i + 1) + "\n" for i in range(n)]))
+    print("".join([" " * (n - i - 1) + "*" * (i + 1) + "\n" for i in range(n)])) # ldnflgndfk
 
 item6()
